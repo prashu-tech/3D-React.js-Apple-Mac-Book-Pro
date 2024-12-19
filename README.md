@@ -70,7 +70,8 @@ Open your browser and navigate to http://localhost:3000.
 Live Demo: macbook-3d-landing-page (Add your live demo link here)
 
 🖌️ Screenshots
-![image](https://github.com/user-attachments/assets/b5f14be0-fcad-4ce5-976a-2aca69257c01)
+![image](https://github.com/user-attachments/assets/9c6f5071-e2fe-406e-9ac6-7958118bcdfa)
+
 
 
 🛡️ License
